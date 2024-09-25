@@ -28,6 +28,7 @@ The repository is organized by programming language and frameworks. Each folder 
 
 | Language   | English Questions Link                           | Polish Questions Link                            |
 | ---------- | ------------------------------------------------ | ------------------------------------------------ |
+| HTML       | [HTML (EN)](./EN/HTML/html.md)                   | [HTML (PL)](./PL/HTML/html.md)                   |
 | JavaScript | [JavaScript (EN)](./EN/javascript/javascript.md) | [JavaScript (PL)](./PL/javascript/javascript.md) |
 
 This table will grow as more languages and frameworks are added to the repository.
