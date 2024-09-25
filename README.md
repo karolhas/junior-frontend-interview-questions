@@ -11,7 +11,7 @@ Welcome to the **Junior Frontend Interview Questions** repository! 🎉 This pro
 ![Stars](https://img.shields.io/github/stars/karolhas/junior-frontend-interview-questions)
 ![Forks](https://img.shields.io/github/forks/karolhas/junior-frontend-interview-questions)
 ![Contributors](https://img.shields.io/github/contributors/karolhas/junior-frontend-interview-questions)
-![License](https://img.shields.io/github/license/karolhas/junior-frontend-interview-questions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 📚 Table of Contents
 
