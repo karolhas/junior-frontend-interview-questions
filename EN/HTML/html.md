@@ -169,15 +169,15 @@ There are three ways to include the CSS with HTML:
 
 1. Inline CSS - it is used when less amount of styling is needed or in cases where only a single element has to be styled. To use inline styles add the `style` attribute in the relevant tag.
 
-![inline css](/docs/InlineStyleSheet.png)
+![inline css](/docs/html_inline_style_sheet.png)
 
 2. External Style Sheet - this is used when the style is applied to many elements or HTML pages. Each page must link to the style sheet using the `<link>` tag:
 
-![external css](/docs/ExternalStyleSheet.png)
+![external css](/docs/html_external_style_sheet.png)
 
 3. Internal Style Sheet - it is used when a single HTML document has a unique style and several elements need to be styled to follow the format. Internal styles sheet is added in the head section of an HTML page, by using the `<style>` tag:
 
-![internal css](/docs/InternalStyleSheet.png)
+![internal css](/docs/html_internal_style_sheet.png)
 
 ---
 
