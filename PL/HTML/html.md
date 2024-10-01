@@ -169,15 +169,15 @@ Istnieją trzy sposoby na włączenie CSS do HTML:
 
 1. CSS wewnętrzny - jest używany, gdy potrzeba niewielkiej ilości stylizacji lub w przypadkach, gdy tylko jeden element musi być stylizowany. Aby użyć stylów wewnętrznych, dodaj atrybut `style` w odpowiednim tagu.
 
-![css wewnętrzny](/docs/InlineStyleSheet.png)
+![css wewnętrzny](/docs/html_inline_style_sheet.png)
 
 2. Zewnętrzny arkusz stylów - jest używany, gdy styl jest stosowany do wielu elementów lub stron HTML. Każda strona musi odwoływać się do arkusza stylów za pomocą tagu `<link>`:
 
-![zewnętrzny css](/docs/ExternalStyleSheet.png)
+![zewnętrzny css](/docs/html_external_style_sheet.png)
 
 3. Wewnętrzny arkusz stylów - jest używany, gdy pojedynczy dokument HTML ma unikalny styl i wiele elementów musi być stylizowanych zgodnie z formatem. Wewnętrzny arkusz stylów jest dodawany w sekcji nagłówka strony HTML za pomocą tagu `<style>`:
 
-![wewnętrzny css](/docs/InternalStyleSheet.png)
+![wewnętrzny css](/docs/html_internal_style_sheet.png)
 
 ---
 
